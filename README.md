@@ -1,15 +1,15 @@
-# DOCKER APPLICATION
+# APLICATIVO DOCKER
 
-An application to manage docker server
+ Um aplicativo para gerenciar o servidor docker
 
-## INSTALLATION
-* Install docker api ([link](https://github.com/joaovieira23/docker-backend)) on your server
+ ## INSTALAÇÃO
+ * Instale docker api ([link] (https://github.com/joaovieira23/docker-backend)) em seu servidor
 
-```
-& npm run build
-& npm start
-```
+ `` `
+ & npm executar compilação
+ & npm start
+ `` `
 
-Go to config tab and enter ip / port server
+ Vá para a guia de configuração e insira o servidor de ip / porta
 
-Enjoy
+ Aproveite
